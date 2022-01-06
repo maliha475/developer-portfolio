@@ -4,6 +4,12 @@ font-family: 'Spline Sans', sans-serif;
 margin: 0;
 
 }
+.first-para{
+    color: grey;
+}
+.second-para{
+    color: grey;
+}
 h1{
     font-size: 60px;
     
@@ -12,7 +18,7 @@ h1{
     color: rgb(207, 17, 17);
     
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 120px;
 }
