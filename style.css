@@ -79,3 +79,6 @@ border-image-slice: 1;
     footer p{
 text-align: center;
     }
+    .grey{
+        color: grey;
+    }
