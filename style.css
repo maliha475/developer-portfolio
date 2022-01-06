@@ -14,6 +14,9 @@ h1{
     font-size: 60px;
     
 }
+h2{
+    font-size: 40px;
+}
 .name{
     color: rgb(207, 17, 17);
     
@@ -25,6 +28,7 @@ h1{
 .half-width{
     width: 50%;
     padding-left: 5%;
+    
 }
 .half-width img {
     width: 80%;
@@ -49,3 +53,29 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experience-item{
+box-shadow: 10px 10px 40px grey;
+width: 40%;
+margin-left: 5%;
+margin-right:5%;
+padding-left: 20px;
+border-radius: 5px;
+
+}
+.expeience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+#web-dev-exp{
+    border-left: 7px solid;
+border-image: linear-gradient(blue , rgba(18, 211, 211, 0.822));
+border-image-slice: 1;
+}
+    #fullsta{
+        border-left: 7px solid;
+border-image: linear-gradient(salmon , orange);
+border-image-slice: 1;
+    }
+    footer p{
+text-align: center;
+    }
